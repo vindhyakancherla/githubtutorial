@@ -1,0 +1,1 @@
+hai this is simple notepad for using git commands
