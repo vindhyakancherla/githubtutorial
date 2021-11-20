@@ -6,5 +6,5 @@ class Simple{
 
     return int a+int b;
 
-    }{  
+    } 
 }  
