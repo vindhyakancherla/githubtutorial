@@ -9,7 +9,12 @@ class Simple{
     } 
         int sub(int a, int b)
         {
-            return 0;
+            if (int a > int b)
+		    
+		    return int a - int b;
+	    
+
+
         }
             
 }  
