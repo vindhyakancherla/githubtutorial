@@ -4,7 +4,7 @@ class Simple{
     int add(int a,int b)
     {
 
-    return int a+int b;
+          return int a+int b;
 
     } 
         int sub(int a, int b)
@@ -13,5 +13,10 @@ class Simple{
 	    {
 		    return int b - int a;
         }
-            
-}  
+	    else
+	    {
+		    return int a - int b;
+	    }
+	}
+ }
+
