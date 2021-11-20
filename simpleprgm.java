@@ -3,7 +3,7 @@ class Simple{
      System.out.println("Hello git");  
     int add(int a,int b)
     {
-       
+           if(int a > int b)
           return int a+int b;
 
     print("hai")
