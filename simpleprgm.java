@@ -9,12 +9,18 @@ class Simple{
     } 
         int sub(int a, int b)
         {
+<<<<<<< HEAD
             if (int a > int b)
 		    
 		    return int a - int b;
 	    
 
 
+=======
+            if (int a < int b)
+	    {
+		    return int b - int a;
+>>>>>>> branch2
         }
             
 }  
